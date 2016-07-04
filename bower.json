@@ -3,7 +3,7 @@
   "authors": [
     "will-sklenars <will.sklenars@gmail.com>"
   ],
-  "description": "Allows you to call a function and have it execute only when the raf loop is above the specified target fps",
+  "description": "Allows you to call a function and have it execute only when the raf loop is above the specified target ",
   "main": "run-at-fps.js",
   "keywords": [
     "raf",
@@ -12,6 +12,7 @@
     "three.js"
     "performance",
     "fps"
+  ],
   "license": "MIT",
   "homepage": "",
   "ignore": [
