@@ -3,13 +3,13 @@
   "authors": [
     "will-sklenars <will.sklenars@gmail.com>"
   ],
-  "description": "Allows you to call a function and have it execute only when the raf loop is above the specified target ",
+  "description": "Allows you to call a function and have it execute only when the raf loop is above the specified target",
   "main": "run-at-fps.js",
   "keywords": [
     "raf",
     "requestAnimationFrame",
     "webgl",
-    "three.js"
+    "three.js",
     "performance",
     "fps"
   ],
