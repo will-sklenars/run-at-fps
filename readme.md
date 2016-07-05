@@ -1,7 +1,7 @@
 run-at-bpm.js
 ========
 
-#### JavaScript Function Despatcher for use with RAF loop ####
+#### JavaScript Function Dispatcher for use with RAF loop ####
 
 This is particually useful for projects that have a large amount of 3D objects to instantiate, and have startup animations that you want to look smooth, but are jumpy due to the RAF loop slowing down because of maxed out CPU.
 
