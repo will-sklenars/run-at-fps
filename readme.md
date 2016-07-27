@@ -1,4 +1,4 @@
-run-at-bpm.js
+run-at-fps.js
 ========
 
 #### JavaScript Function Dispatcher for use with RAF loop ####
