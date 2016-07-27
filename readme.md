@@ -26,4 +26,6 @@ this.fps.runFunctionAtFps({
 
 ```
 
+Sponsored by www.lemonadelabs.io
+
 
